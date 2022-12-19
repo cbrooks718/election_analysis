@@ -1,4 +1,4 @@
-# election_analysis
+# Election Analysis
 
 ## Project Overview
 A Colorado Board of Election employee has given you the following tasks to complete the election audit of a recent local congressional election. 
@@ -28,5 +28,15 @@ The analysis of the election shows that:
   - Diane Degette who received 73.8% of the vote and 272,892 votes
 
 ## Challenge Overview
+To complete the election audit, additional information was requested to find the following:
+
+1. The voter turnout by county
+2. The percentage of votes by county
+3. The county that had the largest turnout
 
 ## Challenge Summary
+
+Out of the total 369,711 votes that were casted, each county received the following # and % of votes:
+- Jefferson county received 38,855 votes and 10.5% of the vote
+- Denver county received *the most* amount of votes with 306,055 votes and 82.8% of the vote
+- Arapahoe county received *the least* amount of votes with 24,801 votes and 6.7% of the vote
